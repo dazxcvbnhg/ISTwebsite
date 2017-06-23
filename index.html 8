@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+<head>
+<link rel="stylesheet" href="styles.css">
+</head>
+<h1> News </h1>
+</h1>
+<a href="index.html"><button>Home</button>
+<a href="index.html 3"><button>Team</button>
+<a href="index.html 2"><button>History</button>
+<a href="index.html 10"><button>Tickets</button>
+<a href="index.html 6"><button>Products</button>
+<a href="index.html 4"><button>Event Calender</button>
+<a href="index.html 5"><button>Social Media</button>
+<a href="index.html 7"><button>Sponsors</button>
+<a href="index.html 9"><button>Contact Us</button>
+<style>
+h1
+{
+  text-align: center;
+  color:white
+}
+h2
+{
+  color:white;
+  font-family: sans-serif;
+   }
+h3
+   {color:white;
+    font-family: sans-serif;
+    font-size: 150%
+  }
+table
+ { font-family: sans-serif;
+   border-spacing: inherit;
+   width: 100%;
+}
+tr,th
+{
+  border-collapse: collapse;
+  text-align: left;
+  background-color: #552582;
+  color: white;
+  font-family:sans-serif;
+  font-size: 110%
+}
+td
+{
+  color:white;
+  font-size:110%
+}
+</style>
+<table style="width:100%">
+  <tr>
+    <th> <a href="http://www.nba.com/lakers/news/170614-popcorn-machine-draft-preview"> <img src="http://i.cdn.turner.com/drp/nba/lakers/sites/default/files/styles/story_main_photo/public/2017poptsdraft.jpg?itok=V31FfBWo" style="width:500px;height;300px">
+    <th> Popcorn Machine:Lonzo Ball, and more with Clay Fowler </th>
+    <th> June 14 2017: One of the most exciting prospects in this year’s draft, Lonzo Ball caught the nation’s attention by leading UCLA’s high-powered offense... </th>
+  </tr>
+<tr>
+  <td> <a href="http://www.nba.com/lakers/news/170613-deaaron-fox-workout"> <img src="http://i.cdn.turner.com/drp/nba/lakers/sites/default/files/styles/story_main_photo/public/170613-fox2.jpg?itok=kuMzTFjw" style="width:500px;height;300px">
+  <td> Lakers Hold Workout for De'Aaron Fox </td>
+  <td> June 13 2017: As the NBA Draft nears closer and closer, the Lakers — owners of the No. 2 pick — continue to evaluate the class’ top talent. ... </td>
+
+</tr>
+<tr>
+  <td> <a href="http://www.nba.com/lakers/news/170613-draft-workout-josh-jackson"> <img src="http://i.cdn.turner.com/drp/nba/lakers/sites/default/files/styles/story_main_photo/public/170613-jacksontranscribe.jpg?itok=gXGAyR0d" style="width:500px;height;300px">
+  <td> Lakers Draft Workout: Josh Jackson
+    <td> June 13 2017: The Lakers continued to prepare for the NBA Draft by bringing in one of the top prospects, Kansas forward Josh Jackson, into the team’s... </td>
+</table>
+
+<a href="http://www.nba.com/lakers/news?ls=nav_news"> <button> More News> </button>

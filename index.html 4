@@ -1,0 +1,102 @@
+<!DOCTYPE HTML>
+<head> </head>
+<html> </html>
+<a href="index.html"> <button> Home </button>
+<a href="index.html 3"><button> Team </button>
+<a href="index.html 10"><button> Tickets </button>
+<a href="index.html 8"><button> News </button>
+<a href="index.html 6"><button> Products </button>
+<a href="index.html 2"><button> History </button>
+<a href="index.html 5"><button> Social Media </button>
+<a href="index.html 7"><button> Sponsors </button>
+<a href="index.html 9"><button> Contact Us </button>
+<link rel="stylesheet" href="styles.css">
+<div class="month">
+  <ul style="list-style-type:none">
+    <li style="text-align:center">
+      <span style="font-size:40px"> <strong> Event Calender <br> </strong>
+      <span style="font-size:40px"> <strong> June </strong>
+      <span style="font-size:30px"> <strong> 2017 </strong> </span>
+      <spam style="font-size:20px"> <strong><p> <strong> No Games This Month </strong> </p> </span>
+
+    </li>
+    <ul class="weekdays">
+  <li>MON</li>
+  <li>TUE</li>
+  <li>WED</li>
+  <li>THUR</li>
+  <li>FRI</li>
+  <li>SAT</li>
+  <li>SUN</li>
+</ul>
+<ul class="days">
+  <li></li>
+  <li></li>
+  <li></li>
+  <li>1</li>
+  <li>2</li>
+  <li>3</li>
+  <li>4</li>
+  <li>5</li>
+  <li>6</li>
+  <li>7</li>
+  <li>8</li>
+  <li>9</li>
+  <li>10</li>
+  <li>11</li>
+  <li>12</li>
+  <li>13</li>
+  <li>14</li>
+  <li>15</li>
+  <li>16</li>
+  <li>17</li>
+  <li>18</li>
+  <li>19</li>
+  <li>20</li>
+  <li>21</li>
+  <li>22</li>
+  <li>23</li>
+  <li>24</li>
+  <li>25</li>
+  <li>26</li>
+  <li>27</li>
+  <li>28</li>
+  <li>29</li>
+  <li>30</li>
+</lu>
+</div>
+<style>}
+* {box-sizing:border-box;}
+ul {list-style-type: none;}
+body {font-family: Verdana,sans-serif;}
+.month {
+    padding: 70px 25px;
+    width: 100%;
+    background:#FDB927;
+}
+.month ul {
+    padding: 10;
+}
+.month ul li {
+    color: black;
+    font-size: 22px;
+}
+.weekdays {
+    background-color: #ddd;
+}
+.weekdays li {
+    display: inline-block;
+    width: 13.6%;
+    text-align: center;
+}
+.days {
+    background: lightgrey;
+}
+.days li {
+    list-style-type: none;
+    display: inline-block;
+    width: 13.6%;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+</style>

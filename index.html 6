@@ -1,0 +1,104 @@
+<!DOCTYPE HTML>
+<html>  </html>
+<link rel="stylesheet" href="styles.css">
+<head>  </head>
+<h1> Products </h1>
+<a href="index.html"> <button> Home </button>
+<a href="index.html 3"><button> Team </button>
+<a href="index.html 10"><button> Tickets </button>
+<a href="index.html 8"><button> News </button>
+<a href="index.html 2"><button> History </button>
+<a href="index.html 4"><button> Event Calender </button>
+<a href="index.html 5"><button> Social Media </button>
+<a href="index.html 7"><button> Sponsors </button>
+<a href="index.html 9"><button> Contact Us </button>
+<p> Fan of the Lakers? Well we are selling these products from the Lakers </p>
+<style>
+h1
+{
+  color:white;
+  text-align: center;
+}
+p
+{
+  color: white;
+  text-align: center;
+  font-size: 120%
+}
+td
+{
+  text-align: center;
+  color:white
+}
+</style>
+<br>
+<table style="width:100%">
+  <tr>
+    <th> <a href="http://store.nba.com/Los_Angeles_Lakers_Best_Selling_Gear/Mens_Los_Angeles_Lakers_Kobe_Bryant_adidas_Gold_Player_Swingman_Home_Jersey" alt="jersey 1">
+      <img src="http://nba.frgimages.com/FFImage/thumb.aspx?i=/productImages%2F_1817000%2Fff_1817182_xl.jpg&w=400" alt="jersey 1 image" style="width:200px; height:200px">
+    </th>
+    <th> <a href="http://store.nba.com/Los_Angeles_Lakers_Best_Selling_Gear/Mens_Los_Angeles_Lakers_Kobe_Bryant_adidas_Gold_Replica_Home_Jersey" alt="jersey 2">
+      <img src="http://nba.frgimages.com/FFImage/thumb.aspx?i=/productImages%2F_486000%2FFF_486381_xl.jpg&w=400" alt="jersey 2 image" style="width:200px; height:200px">
+    </th>
+    <th> <a href="http://store.nba.com/Los_Angeles_Lakers_Best_Selling_Gear/Youth_Los_Angeles_Lakers_Kobe_Bryant_adidas_Purple_Replica_Road_Jersey" alt="jersey 3">
+      <img src="http://nba.frgimages.com/FFImage/thumb.aspx?i=/productImages%2F_494000%2Fff_494649_full.jpg&w=600" alt="jersey 3 image" style="width:200px; height:200px">
+    </th>
+    <th> <a href="http://store.nba.com/Los_Angeles_Lakers_Best_Selling_Gear/Mens_Los_Angeles_Lakers_Kobe_Bryant_adidas_White_Net_Number_T-Shirt" alt="jersey 4">
+      <img src="http://nba.frgimages.com/FFImage/thumb.aspx?i=/productImages%2F_250000%2FFF_250331_xl.jpg&w=600" alt="jersey 4 image" style="width:200px; height:200px">
+    </th>
+    <th> <a href="http://store.nba.com/Los_Angeles_Lakers_Womens/adidas_Kobe_Bryant_Los_Angeles_Lakers_Womens_Replica_Jersey_-_Gold" alt="jersey 5">
+      <img src="https://images.footballfanatics.com/FFImage/thumb.aspx?i=/productimages/_761000/altimages/FF_761815ALT1_full.jpg&w=2000" alt="jersey 5 image" style="width:200px; height:200px">
+    </th>
+  </tr>
+  <td> Men's Los Angeles Lakers Kobe Bryant Adidas Gold Player Swingman Home Jersey <br> Cost: $99.99 </br> </td>
+  <td> Men's Los Angeles Kobe Bryant Adidas Gold Replica Home Jersey <br> Cost: $69.99 </br> </td>
+  <td> Youth Los Angeles Kobe Bryant Adidas Purple Replica Road Jersey <br> $49.99 </br> </td>
+  <td> Men's Los Angeles Kobe Bryant Adidas White Net Number Shirt <br> $27.99 </br> </td>
+  <td> Adidas Kobe Bryant Los Angeles Lakers' Women's Replica Jersey-Gold <br> $69.99 </br> </td>
+</table>
+<br>
+<br>
+<table style="width:100%">
+  <tr>
+    <th> <a href="http://store.nba.com/Los_Angeles_Lakers_Gear/Mens_Los_Angeles_Lakers_New_Era_Purple_2017_NBA_Draft_Official_On_Court_Collection_9FIFTY_Snapback_Hat" alt="hat 1">
+      <img src="http://nba.frgimages.com/FFImage/thumb.aspx?i=/productImages/_2794000/ff_2794629_full.jpg&w=340" alt="hat 1 image" style="width:200px; height:200px">
+    </th>
+    <th> <a href="http://store.nba.com/Los_Angeles_Lakers_Hats/Mens_Los_Angeles_Lakers_New_Era_White_2017_NBA_Draft_Official_On_Court_Collection_9FIFTY_Snapback_Hat" alt="hat 2">
+      <img src="http://nba.frgimages.com/FFImage/thumb.aspx?i=/productImages/_2794000/ff_2794663_full.jpg&w=340" alt="hat 2 image" style="width:200px; height:200px">
+    </th>
+    <th> <a href="http://store.nba.com/Los_Angeles_Lakers_Hats/Mens_Los_Angeles_Lakers_New_Era_Black_Mesh_Fresh_9FIFTY_Adjustable_Snapback_Hat" alt="hat 3">
+      <img src="http://nba.frgimages.com/FFImage/thumb.aspx?i=/productImages%2F_2657000%2Fff_2657143_full.jpg&w=600" alt="hat 3 image" style="width:200px; height:200px">
+    </th>
+    <th> <a href="http://store.nba.com/Los_Angeles_Lakers_Hats/Mens_Los_Angeles_Lakers_New_Era_Purple_Official_Team_Color_9TWENTY_Adjustable_Hat" alt="hat 4">
+      <img src="http://nba.frgimages.com/FFImage/thumb.aspx?i=/productImages%2F_2629000%2Fff_2629841_full.jpg&w=600" alt="hat 4 image" style="width:200px; height:200px">
+    </th>
+  </tr>
+  <tr>
+  <td> Men's Los Angeles Lakers New Era Purple 2017 NBA Draft Official On Court Collection 9FIFTY Snapback Hat <br> $35.99 </br> </td>
+  <td> Men's Los Angeles Lakers New Era White 2017 NBA Draft Official On Court Collection 9FIFTY Snapback Hat <br> $35.99 </br> </td>
+  <td> Men's Los Angeles Lakers New Era Black Mesh Fresh 9FIFTY Adjustable Snapback Hat <br> $27.99 </br> </td>
+  <td> Men's Los Angeles Lakers New Era Purple Official Team Color 9TWENTY Adjustable Hat <br> $19.99 </br> </td>
+  </tr>
+</table>
+<table style="width:100%">
+  <tr>
+    <th> <a href="http://store.nba.com/Los_Angeles_Lakers_Mens_T-Shirts/Mens_Los_Angeles_Lakers_Kobe_Bryant_adidas_Black_Black_Mamba_Nickname_and_Number_T-Shirt" alt="shirt 1">
+      <img src="http://nba.frgimages.com/FFImage/thumb.aspx?i=/productImages%2F_2432000%2Fff_2432608_full.jpg&w=600" alt="shirt 1 image" style="width:200px; height;200px">
+    </th>
+    <th> <a href="http://store.nba.com/Los_Angeles_Lakers_Mens_T-Shirts/Mens_Los_Angeles_Lakers_Purple_Primary_Logo_T-Shirt" alt="shirt 2">
+      <img src="http://nba.frgimages.com/FFImage/thumb.aspx?i=/productImages/_2404000/ff_2404982_full.jpg&w=340" alt="shirt 2 image" style="width:200px; height;200px">
+    </th>
+    <th> <a href="http://store.nba.com/Los_Angeles_Lakers_Womens_T-Shirts/Womens_Los_Angeles_Lakers_Design_Your_Own_V-Neck_T-Shirt#eyJzYyI6W3sibCI6MSwiYyI6NDA1OSwiY3AiOltdfV0sInN2IjoxNzM1LCJzbyI6IiJ9" alt="shirt 3">
+      <img src="http://nflshop.frgimages.com/lf?set=center_chest_chain[FG-149260]&set=right_sleeve_chain[]&set=left_sleeve_chain[]&call=url[http://dmimages.ff.p10/B/RUP-LDGBSSVTEE~PURPLE~FRONT.txt]&scale=size[500]&sink=format[png]" alt="shirt 3 image" style="width:200px; height;200px">
+    </th>
+    <th> <a href="http://store.nba.com/Los_Angeles_Lakers_Womens_T-Shirts/Womens_Los_Angeles_Lakers_Kobe_Bryant_adidas_Purple_Name_and_Number_T-Shirt" alt="shirt 4">
+      <img src="http://nba.frgimages.com/FFImage/thumb.aspx?i=/productimages/_1943000/altimages/FF_1943232ALT1_full.jpg&w=1000&q=80" alt="shirt 4 image" style="width:200px; height;200px">
+    </th>
+  </tr>
+    <tr>
+    <td> Men's Los Angeles Lakers Kobe Bryant adidas Black Black Mamba Nickname and Number T-Shirt <br> $27.99 </br> </td>
+    <td> Men's Los Angeles Lakers Purple Primary Logo T-Shirt <br> $24.99 </br> </td>
+    <td> Women's Los Angeles Lakers Design Your Own V-Neck T-Shirt <br> $31.99 </br> </td>
+    <td> Women's Los Angeles Lakers Kobe Bryant adidas Purple Name and Number T-Shirt <br> $27.99 </br> </td>
+  </tr>
+</table>

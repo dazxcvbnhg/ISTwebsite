@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+</html>
+<link rel="stylesheet" href="styles.css">
+<head>
+</head>
+<h1> Contact Us </h1>
+<a href="index.html"><button> Home </button>
+<a href="index.html 3"><button> Team </button>
+<a href="index.html 10"><button> Tickets </button>
+<a href="index.html 8"><button> News </button>
+<a href="index.html 6"><button> Products </button>
+<a href="index.html 4"><button> Event Calender </button>
+<a href="index.html 5"><button> Social Media </button>
+<a href="index.html 7"><button> Sponsors </button>
+<a href="index.html 2"><button> History </button>
+<p> <strong> If you have a problem with our website, please contact us </strong> </p>
+<h2> Phone Number </h2>
+<p> +61 123 456 789 </p>
+<style>
+p
+{
+  font-size: 120%;
+  color: white
+}
+h1
+{
+  text-align: center;
+  color: white
+}
+
+</style>

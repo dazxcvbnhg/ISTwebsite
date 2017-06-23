@@ -1,0 +1,86 @@
+<!DOCTYPE HTML>
+<head>
+<link rel="stylesheet" href="styles.css">
+</head>
+<h1> History of The Lakers
+</h1>
+<a href="index.html"><button> Home </button>
+<a href="index.html 3"><button> Team </button>
+<a href="index.html 10"><button> Tickets </button>
+<a href="index.html 8"><button> News </button>
+<a href="index.html 6"><button> Products </button>
+<a href="index.html 4"><button> Event Calender </button>
+<a href="index.html 5"><button> Social Media </button>
+<a href="index.html 7"><button> Sponsors </button>
+<a href="index.html 9"><button> Contact Us </button>
+<style>
+h1
+{
+  text-align: center;
+  color:white
+}
+h2
+{
+  color:white;
+  font-family: sans-serif;
+   }
+h3
+   {color:white;
+    font-family: sans-serif;
+    font-size: 150%
+  }
+table
+ { font-family: sans-serif;
+   border-spacing: inherit;
+   width: 100%;
+}
+tr,th
+{
+  border-collapse: collapse;
+  text-align: left;
+  background-color: #552582;
+  color: black;
+  font-family:sans-serif;
+  font-size: 110%
+}
+</style>
+<h2> How It Started </h2>
+<table>
+  <tr>
+    <th> The Lakers began their franchise when Ben Berger and Morris Chalfen bought the disbanded team Detroit Gems franchise of the National Basketball League (NBL).
+         The business partner was Maury Winston and the head coach was  John Kundla. The franchise was given a new name, the "Lakers" in reference to Minnesota's nickname, "The Land of 10,000 Lakes"
+         Berger and Chalfen brought in Max Winter  to become the Lakers' new general manager. Winter also took an ownership stake in the team. </th>
+    <th>
+      <p>John Kundla </p>
+      <img src="https://vignette2.wikia.nocookie.net/nba/images/6/6a/John_Kundla.jpeg/revision/latest?cb=20170112105449" alt="past image" style="width:200px ; height:250px "> </th>
+  </tr>
+</table>
+<h3> The first Team </h3>
+<table>
+  <tr>
+    <th> The first team of the Lakers was made up of 15 players: </th>
+</tr>
+</table>
+<table>
+  <tr>
+    <th>
+    <li> Mike Bloom </li>
+    <li> Jack Tingle </li>
+    <li> Herm Schaefe </li>
+    <li> Jim Pollard </li>
+    <li> George Mikan </li>
+    <li> Whitey Kachan </li>
+    <li> Johnny Jorgensen </li>
+    <li> Tony Jaros </li>
+  </th>
+  <th>
+    <li> Don E. Smith </li>
+    <li> Earl Gardner </li>
+    <li> Donnie Forman </li>
+    <li> Arnold Ferrin </li>
+    <li> Ray Ellefson </li>
+    <li> Jack Dwan </li>
+    <li> Don Carlson </li>
+  </th>
+</table>
+<h3>  </h3>

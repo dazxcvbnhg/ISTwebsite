@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html> </html>
+<link rel="stylesheet" href="styles.css">
+<head> </head>
+<h1> Social Media </h1>
+<a href="index.html"><button> Home </button>
+<a href="index.html 3"><button> Team </button>
+<a href="index.html 10"><button> Tickets </button>
+<a href="index.html 8"><button> News </button>
+<a href="index.html 6"><button> Products </button>
+<a href="index.html 4"><button> Event Calender </button>
+<a href="index.html 2"><button> History </button>
+<a href="index.html 7"><button> Sponsors </button>
+<a href="index.html 9"><button> Contact Us </button>
+<p> <strong> If are a fan of the Lakers, you can go and check them out on their social media </strong> </P>
+<style>
+h1
+{
+  text-align: center;
+  color:white
+}
+p
+{
+  color:white;
+  font-size:120%;
+  text-align: center;
+}
+img
+{
+  animation-iteration-count: infinite;
+}
+</style>
+<br>
+<br>
+<br>
+<table style="width:100%">
+<tr>
+  <th> <a href="https://www.snapchat.com/add/lakerssnaps"alt"snapchat website">
+    <img src="https://cdn.worldvectorlogo.com/logos/snapchat.svg"alt="snapchat logo" style="width:100px; height:100px">
+  </th>
+  <th>
+    <a href="https://www.instagram.com/lakers/"alt"instagram website"> <img src="http://www.logotypes101.com/logos/752/46CB6EFDF45D02DF8C1AE688B5806F85/2016_instagram_logo.png"alt="instagram logo" style="width:100px; height:100px">
+    </th>
+  <th>
+    <a href="https://twitter.com/lakers"alt"twitter website"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Twitter_bird_logo_2012.svg/1259px-Twitter_bird_logo_2012.svg.png"alt="twitter logo" style="width:100px; height: 100px">
+    </th>
+</tr>
+</table>
+<br>
+<br>
+<table style="width:100%">
+  <tr>
+<th>
+  <a href="https://www.facebook.com/losangeleslakers" alt"facebook website">
+     <img src="http://facecrooks.com/wp-content/uploads/2013/10/facebook_logo_by_oguzburaksipsak-d4ubonk.png2.jpg" alt="facebook logo" style="width:100px; height: 100px">
+<th> <img src="RECOVER_ISTX-Animation.gif">
+  </th>
+<th>
+  <a href="https://plus.google.com/+LosAngelesLakers"alt"google plus website"> <img src="https://image.flaticon.com/icons/svg/60/60818.svg"alt="google plus logo" style="width:100px; height: 100px">
+</th>
+  </tr>

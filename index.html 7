@@ -1,0 +1,86 @@
+<!DOCTYPE HTML>
+<html>
+</html>
+<link rel="stylesheet" href="styles.css">
+<head>
+</head>
+<h1> Sponsorships </h1>
+<a href="index.html"> <button> Home </button>
+<a href="index.html 3"><button> Team </button>
+<a href="index.html 10"><button> Tickets </button>
+<a href="index.html 8"><button> News </button>
+<a href="index.html 6"><button> Products </button>
+<a href="index.html 4"><button> Event Calender </button>
+<a href="index.html 5"><button> Social Media </button>
+<a href="index.html 2"><button> History </button>
+<a href="index.html 9"><button> Contact Us </button>
+<p> <strong> See who the Lakers are partnered with </strong> </p>
+<style>
+h1
+{
+  text-align: center;
+  color:white
+}
+td
+{
+  text-align: center;
+  color:white
+}
+p
+{
+  text-align: center;
+  color: white
+}
+</style>
+<table style="width:100%">
+  <tr>
+    <th> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/2000px-Adidas_Logo.svg.png" alt="adidas" style="width:100px;height:100px">
+    </th>
+    <th> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_NIKE.svg/1200px-Logo_NIKE.svg.png" alt="nike" style="width:100px; height:100px">
+    </th>
+  </tr>
+  <tr>
+    <td> Adidas </td>
+    <td> Nike </td>
+  </tr>
+</table>
+<table style="width:100%">
+  <tr>
+    <th> <img src="http://d1r57ja1amoclf.cloudfront.net/wp-content/uploads/2014/04/Toyota-Logo.jpg" alt="toyota" style="width:100px; height:100px"> </th>
+    <th> <img src="http://www.trbimg.com/img-56fd643a/turbine/la-l-a-times-logo-20160331/600" alt="los angeles times" style="width:100px; height:100px"> </th>
+  </tr>
+  <tr>
+    <td> Toyota </td>
+    <td> Los Angeles Times</td>
+  </tr>
+</table>
+<table style="width:100%">
+  <tr>
+    <th> <img src="https://upload.wikimedia.org/wikipedia/en/c/c4/EA_Sports_logo.png" alt="EA sports" style="width:100px; height:100px"> </th>
+    <th> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Canon_wordmark.svg/2000px-Canon_wordmark.svg.png" alt="canon" style="width:100px; height:100px"> </th>
+  </tr>
+  <tr>
+    <td> EA Sports </td>
+    <td> Canon </td>
+  </tr>
+</table>
+<table style="width:100%">
+  <tr>
+      <th> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/American_Express_logo.svg/1200px-American_Express_logo.svg.png" alt="american express" style="width:100px; height:100px"> </th>
+    <th> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Automobile_Club_of_Southern_California_logo.svg/1024px-Automobile_Club_of_Southern_California_logo.svg.png" alt="automobile club" style="width:100px; height:100px"> </th>
+  </tr>
+  <tr>
+    <td> American Express </td>
+    <td> Automobile Club </td>
+  </tr>
+  </table>
+<table style="width:100%">
+  <tr>
+    <th> <img src="http://cityofhope.plannedlegacy.com/img/logo.png" alt="city of hope" style="width:100px; height:100px"> </th>
+    <th> <img src="https://www.eastwestbanker.com/img/ver3/ew_logo.jpg" alt="east west bank" style="width:100px; height:100px"> </th>
+  </tr>
+  <tr>
+    <td> City of Hope </td>
+    <td> EastWest Bank </td>
+  </tr>
+</table>
